@@ -2,7 +2,7 @@
 PROJECT NAME
 -->
 
-# CIFRADOS 2025
+# Laboratorio 1 - Parte B
 <a id="readme-top"></a>
 
 <!--
@@ -10,73 +10,18 @@ PROJECT DESCRIPTION
 -->
 ## 📜 Descripción
 
-CIFRADOS 2025 es un repositorio diseñado para la gestión de material del curso Cifrados del año 2025. En este repositorio se encontraran los ejercicios y ejemplos de la clase, asi como la documentacion del contenido de la clase.
+Implementar el uso de funciones para encriptar y decriptar un texto cifrado e identificar los requisitos para un análisis de fuerza bruta por frecuencia.
 
-* https://locano-uvg.github.io/cifrados-25/
-
+* https://github.com/Wachuuu15/CIFRADO_INFORMACION
 
 ## ✨ Características
-- Documentacion del contenido de la clase
-- Ejercicios
-- Ejemplos
-- Proyectos
-<!-- 
-## 🚀 Instalación y Ejecución
-
-1. Clona este repositorio e instala las dependencias:
-
-    ```bash
-    git clone https://github.com/locano-uvg/stw-25.git
-    cd stw-25
-    ```
-
-2. Para que los ejercicios y ejemplos funcionen correctamente, muchas veces sera necesario configurar variables de entorno en un archivo `.env`
-
-    Crea un archivo .env en la raíz del proyecto y completa las variables de entorno necesarias.
-
-    ```bash
-    # Conexión con MongoDB
-    NEXT_PUBLIC_MONGODB_URI=<URL de MongoDB>
-
-    ```
-
-3. Ejecuta la aplicación en modo desarrollo:
-
-    ```bash
-    npm run dev
-    ```
-
-4. Accede a la aplicación en <http://localhost:3000>.
-
-## 📂 Estructura del Proyecto
-
-<details>
-  <summary>Descripción de Carpetas</summary>
-
-La estructura del proyecto está organizada de la siguiente manera:
-
-- **public/**: Archivos estáticos y recursos accesibles públicamente.
-- **src/**
-  - **components/**: Componentes reutilizables de la interfaz de usuario.
-  - **pages/**: Rutas de la aplicación, organizadas en carpetas según su funcionalidad.
-    - **api/**: Endpoints de la API.
-    - **404/**: Página de error 404.
-    - **home/**: Página de inicio de la aplicación.
-    - **login/**: Página de inicio de sesión.
-  - **services/**: Servicios auxiliares, incluyendo el manejo de correos y configuraciones.
-    - **email/**: Servicios para envío de correos electrónicos.
-    - **namesEnums.js, reportTypes.js, world.js**: Archivos de configuración y utilidades.
-  - **styles/**: Archivos CSS para los estilos de la aplicación.
-  
-</details>
-<p align="right">(<a href="#readme-top">Ir al inicio</a>)</p>
- -->
+- Función para encriptar y desencriptar 
+- Cifrados César, Afín y Vigenére
+- Análisis de fuerza bruta
 
 ## 📦 Dependencias Principales
 
-Las principales dependencias del proyecto incluyen:
-* [![Node][Node.js]][Node-url]
-* [![Reveal][Reveal-js]][Reveal-url]
+Las principales dependencias del laboratorio incluyen:
 * [![Python][Python]][Python-url]
 <!-- * [![Next][Next.js]][Next-url] -->
 <!-- * [![React][React.js]][React-url] -->
@@ -120,8 +65,8 @@ Si deseas contribuir al proyecto, por favor sigue los siguientes pasos:
 
 ### Developer's
 
-<a href="https://github.com/locano">
-  <img width='75' src="https://avatars.githubusercontent.com/u/16949087?v=4" alt="Ludwing Cano" />
+<a href="https://github.com/Wachuuu15">
+  <img width='75' src="https://avatars.githubusercontent.com/u/16949087?v=4" alt="Jennifer Toxcon" />
 </a>
 
 * [![Linkedin][Linkedin]][Linkedin-lud]
