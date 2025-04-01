@@ -1,18 +1,13 @@
 # CIFRADOS 2025
 
 
-## 📜 Descripción
-
-CIFRADOS 2025 es un repositorio diseñado para implementar cifrados simétricos clásicos como **DES**, **3DES** y **AES** en modos **ECB** y **CBC** utilizando Python y la librería `pycryptodome`. Este proyecto incluye pruebas unitarias y ejemplos de cifrado y descifrado de texto e imágenes.
 
 ## ✨ Características
 
-- Implementación de algoritmos de cifrado simétrico: **DES**, **3DES** y **AES**.
-- Modos de operación: **ECB** y **CBC**.
-- Cifrado y descifrado de mensajes de texto.
-- Cifrado y descifrado de imágenes.
-- Pruebas unitarias para asegurar el funcionamiento correcto de cada algoritmo.
-
+- Comprender el concepto de un keystream y su importancia en los cifrados de flujo.
+- Implementar un esquema básico de cifrado y descifrado utilizando XOR.
+- Analizar las implicaciones de la reutilización del keystream y su longitud en la seguridad.
+  
 ## 🚀 Instalación y Ejecución
 
 1. Clona este repositorio:
@@ -82,11 +77,9 @@ cd Ejercicio_Stream_Cipher
 
 Instalar las dependencias necesarias:
 
-pip install -r requirements.txt
-
 Ejecutar el script de cifrado y descifrado:
 
-python Cifrado_XOR_Keystream.py
+python Ejercicio_stream.ipynb
 
 📦 Dependencias Principales
 
